@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Irving, Texas with a population of over 256k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Irving, Texas, US",
+  "export_job_id": "7ddddacf-bacf-4075-a006-b447dd589e60",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 344631,
+  "location_name": "Irving",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-irving-texas-us-sample-344631",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/344631/beamstation_344631_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 78,
+  "sample_sha256": "ab7ce567dfdd921f1d576e9048838ce2c292f3e39c1183b6f11ccdda47ec5778",
+  "sample_size_bytes": 309306,
+  "total_records": 788,
+  "updated_at": "2026-04-09T14:33:26.728133+00:00"
+}
