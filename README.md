@@ -1,6 +1,6 @@
 # All Restaurants in Irving, Texas, US
 
-> Free BeamStation sample export with 78 rows and masked direct-contact fields.
+> Free BeamStation sample export with 77 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `344631` |
 | Location | Irving |
 | Category | Restaurants |
-| Full dataset size | 788 records |
-| Free sample size | 78 records (9.9%) |
-| Last export | 2026-04-09T14:33:26.728133+00:00 |
+| Full dataset size | 779 records |
+| Free sample size | 77 records (9.88%) |
+| Last export | 2026-04-16T16:02:49.156155+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-irving-texas-us-sample-344631/releases/download/sample-latest/beamstation_344631_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
