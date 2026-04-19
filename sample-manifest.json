@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7ddddacf-bacf-4075-a006-b447dd589e60",
+  "export_job_id": "509b5e36-7d67-458b-9ba5-973477434b4d",
   "id_short": 344631,
-  "published_at": "2026-04-12T07:13:37Z",
+  "published_at": "2026-04-19T07:56:30Z",
   "repo_name": "all-restaurants-in-irving-texas-us-sample-344631",
   "sample_asset_name": "beamstation_344631_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/344631/beamstation_344631_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 78,
-  "sample_sha256": "ab7ce567dfdd921f1d576e9048838ce2c292f3e39c1183b6f11ccdda47ec5778",
-  "sample_size_bytes": 309306,
-  "total_records": 788
+  "sample_records": 77,
+  "sample_sha256": "c81e9dc5adf8b4bd91b6d86a62e8252e1c78c3f41f3b2c74a47a230862083693",
+  "sample_size_bytes": 304420,
+  "total_records": 779
 }
